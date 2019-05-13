@@ -11,4 +11,9 @@ public class Test01 {
         System.out.println("Hello,git project");
         System.out.println("Hello,git project");
     }
+    public void test(){
+        int i = 0;
+        i = i +10;
+        System.out.println(i);
+    }
 }
